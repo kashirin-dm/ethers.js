@@ -52,7 +52,7 @@
   "license": "MIT",
   "main": "./lib/index.js",
   "module": "./lib.esm/index.js",
-  "name": "ethers",
+  "name": "ethers_v5",
   "repository": {
     "directory": "packages/ethers",
     "type": "git",
